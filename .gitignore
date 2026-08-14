@@ -1,0 +1,45 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno y configuración local
+.env
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Bases de datos locales y archivos pesados o sensibles
+*.csv
+*.xlsx
+
+# Modelos o transformadores serializados
+*.joblib
+*.pkl
+*.h5
+*.keras
+
+# Resultados generados automáticamente
+resultados_herramienta_sst_v7_dashboard/
+
+# Carpetas históricas o de pruebas locales
+Legacy code/
+Legacy_code/
+legacy_code/
+ARCHIVOS PROYECTO/Pruebas antiguas/
+ARCHIVOS_PROYECTO/Pruebas antiguas/
+archivos_proyecto/pruebas_antiguas/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
